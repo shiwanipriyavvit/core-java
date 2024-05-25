@@ -7,7 +7,7 @@ public class Employee {
     // Constructor to initialize the Employee object
     public Employee(int salary, int leaves, int compoff, Boolean working) {
         this.salary = salary;
-        this.leaves = leaves;
+        this.leaves = leaves;ls
         this.compoff = compoff;
         this.working = working;
     }
