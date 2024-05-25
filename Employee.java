@@ -1,11 +1,11 @@
-public class Employee {
-    private int salary;
-    private int leaves;
-    private int compoff;
-    private Boolean working;
+public class Student{
+    private string name;
+    private int attendance;
+    private int prices;
+    private Boolean score;
 
     // Constructor to initialize the Employee object
-    public Employee(int salary, int leaves, int compoff, Boolean working) {
+    public Employee(string name, int leaves, int compoff, Boolean working) {
         this.salary = salary;
         this.leaves = leaves;ls
         this.compoff = compoff;
